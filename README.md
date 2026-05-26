@@ -59,6 +59,6 @@ Apple created [TSPL](https://docs.swift.org/swift-book/documentation/the-swift-p
 
 © 2026 [3DaysOfSwift.com](https://www.3DaysOfSwift.com). All rights reserved.
 
-Welcome to our community of [3DaysOfSwift.com](https://www.3DaysOfSwift.com) iOS developers!
+Built for professional iOS developers.
 
-👩🏿‍💻🧑🏻‍💻🙋🏿‍♀️🧑🏼‍💻👩🏼‍💼👩🏽‍💻🧑🏿‍💻💁🏼‍♀️👩🏼‍💻👨🏼‍💻👨🏽‍💻🙋🏽‍♂️👩🏻‍💻🧑🏾‍💻👩🏻‍💻👩🏾‍💻👨🏼‍💻🙋🏻‍♂️👨🏿‍💻👩🏿‍💻👨🏻‍💻🙋🏻‍♀️👩🏼‍💻🧑🏿‍💻🙋🏼‍♂️
+👩🏿‍💻🧑🏻‍💻🙋🏿‍♀️🧑🏼‍💻👩🏼‍💼👩🏽‍💻🧑🏿‍💻💁🏼‍♀️👩🏼‍💻👨🏼‍💻👨🏽‍💻🙋🏽‍♂️👩🏻‍💻🧑🏾‍💻👩🏻‍💻👩🏾‍💻👨🏼‍💻🙋🏻‍♂️👨🏿‍💻🙋🏼‍♂️
